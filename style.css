@@ -47,7 +47,7 @@ header h1 {
 }
 
 .act-box {
-  background: #ffffff;
+  background: #ecd9d9;
   color: #333;
   padding: 20px;
   height: 320px;
@@ -65,21 +65,21 @@ header h1 {
 .act-box:hover {
   transform: translateY(-8px);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-  background: #e3f7f7;
+  background: #ecd9d9;
 }
 
 .act-box img {
   width: 100%;
-  height: 230px;
+  height: 300px;
   object-fit: cover;
   border-radius: 12px;
   margin-bottom: 12px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
-  transition: transform 0.3s ease;
+  transition: transform 0.35s ease;
 }
 
 .act-box img:hover {
-  transform: scale(1.05);
+  transform: scale(1.15);
 }
 
 .act-box p {
@@ -100,7 +100,7 @@ header h1 {
 }
 
 .picture:hover {
-  transform: scale(1.05);
+  transform: scale(1.08);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
 }
 
