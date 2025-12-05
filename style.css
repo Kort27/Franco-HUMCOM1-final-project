@@ -79,7 +79,7 @@ header h1 {
 }
 
 .act-box img:hover {
-  transform: scale(1.15);
+  transform: scale(1.5);
 }
 
 .act-box p {
